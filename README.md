@@ -1,6 +1,6 @@
 Done as part of The Odin Project.
 
-##Etch-a-Sketch!
+##Etch-a-Sketch!##
 
 A very basic foundation for a canva/drawing app.
 
