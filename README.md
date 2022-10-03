@@ -1,10 +1,6 @@
 Done as part of The Odin Project.
 
-<<<<<<< HEAD
 ## Etch-a-Sketch!
-=======
-##Etch-a-Sketch!##
->>>>>>> c205cce68558a0f8f7092e0d7161d6f8ddfe5fd7
 
 A very basic foundation for a canva/drawing app.
 
